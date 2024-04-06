@@ -1,10 +1,11 @@
+<!-- @format -->
+
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_kiran._.mk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kiran._.mk_" height="30" width="40" /></a>
 </p>
-
 
 <div style="display: flex; align-items: center;">
   <h3 align="left">Statistics</h3>
@@ -15,7 +16,8 @@
   <img src="https://streak-stats.demolab.com?user=kirankumar6676&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/kirankumar6676/kirankumar6676/output/snake.svg" alt="Snake animation" />
+
 <!--
 **kirankumar6676/kirankumar6676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
