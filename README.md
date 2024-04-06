@@ -34,7 +34,7 @@
 </p>
 
 <br>
-<h2 style="color: #44AEFB">Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <br>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
