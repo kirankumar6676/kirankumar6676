@@ -1,4 +1,10 @@
 <!-- @format -->
+
+<div>
+ <img align="right" alt="coding" src="https://github.com/kirankumar6676/kirankumar6676/blob/903f49db87e12c565c3dc724877739dcf9474e97/kiran-banner.png">
+ <br>
+</div>
+
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">, I'm Kiran</h1>
 
 <div align="center">
