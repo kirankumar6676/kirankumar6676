@@ -5,7 +5,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Web+developer;Freelancer;Anime+Lover;Book+reader;Music+listener" alt="Typing SVG" /></a><br>
 </div>
 
-<img  align="right" width="400" src = "https://github.com/kirankumar6676/kirankumar6676/blob/a44b74155e2f9d97ca7642b2083b070da27a7398/developer-gif.gif">
+<img  align="right" width="350" src = "https://github.com/kirankumar6676/kirankumar6676/blob/a44b74155e2f9d97ca7642b2083b070da27a7398/developer-gif.gif">
 <br>
 
 - 🔭 I’m currently working on **Machine Learning and MERN projects**
