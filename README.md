@@ -34,7 +34,7 @@
 <h2 align="left"> <img width="30" src="https://github.com/kirankumar6676/kirankumar6676/blob/66ff1ee39e46717d4aba69bd04ee43c4d2b19bb2/connection.png" > Connect with me:</h2>
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/kiran-kumar-81a4a1231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Kirankumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kirankumar0327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Kirankumar" height="30" width="40" /></a>
 <a href="https://instagram.com/_kiran._.mk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kiran._.mk_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kumarkiran0893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kumarkiran0893" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kiranmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiranmk" height="30" width="40" /></a>
